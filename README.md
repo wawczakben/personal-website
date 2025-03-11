@@ -1,2 +1,2 @@
-# personal-website
-personal website for me, benwa
+# ʙᴇɴᴡᴀ'ꜱ ᴘᴇʀꜱᴏɴᴀʟ ᴡᴇʙꜱɪᴛᴇ
+https://benwa.dev
