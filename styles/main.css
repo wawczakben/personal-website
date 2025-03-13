@@ -39,7 +39,7 @@ p {
     border-radius: 0;
 }
 @media only screen and (max-width: 500px){ /* portrait mobile */
-    .container {
+    .main-container {
     max-width: 320px;
     margin: 80px auto;
     background: white;
